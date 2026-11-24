@@ -1,0 +1,8 @@
+/build*/
+/pentagol-cli
+/.vs/
+*.exe
+*.obj
+*.o
+*.pdb
+*.user
